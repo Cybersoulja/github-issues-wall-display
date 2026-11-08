@@ -2,6 +2,7 @@
 
 > **Status:** In development
 > **Repository:** https://github.com/Cybersoulja/github-issues-wall-display
+> **Live deployment:** https://github-issues-wall-display.pages.dev
 > **Notion dashboard:** GitHub Issues Wall Display under the Oneseco Media GitHub Development Hub
 
 ## Completed
