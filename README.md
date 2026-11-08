@@ -2,6 +2,14 @@
 
 A lightweight, static wall display for the most active open issues in a GitHub repository.
 
+## Live deployment
+
+[Open the Cloudflare Pages dashboard](https://github-issues-wall-display.pages.dev)
+
+Choose a repository with `?repo=owner/repository`, for example:
+
+`https://github-issues-wall-display.pages.dev/?repo=owner/repository`
+
 ## Run locally
 
 Open `index.html` in a browser, or serve this folder with any static file server.

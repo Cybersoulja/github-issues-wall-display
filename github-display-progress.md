@@ -21,11 +21,13 @@
 
 ## Next
 
-- [ ] Push the implementation to GitHub
-- [ ] Attach the repository bookmark to the Notion dashboard
+- [x] Push the implementation to GitHub
+- [x] Attach the repository bookmark to the Notion dashboard
+- [x] Deploy the static dashboard to Cloudflare Pages
+- [x] Add the live deployment URL to project documentation
 - [ ] Validate the layout in a real wall-display browser
 - [ ] Decide whether a server-side proxy is needed for higher API rate limits
-- [ ] Add deployment instructions or GitHub Pages workflow
+- [ ] Add a repeatable deployment workflow
 
 ## Decisions
 
